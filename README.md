@@ -76,5 +76,5 @@ This project is aligned with the following UN Sustainable Development Goals:
 
 
 ## Contact
-If you'd like a private walkthrough for internship evaluation:
+If you'd like a private walkthrough:
 📩 mangwararaleroy@gmail.com
